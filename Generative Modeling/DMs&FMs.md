@@ -49,6 +49,14 @@
 - [Stable Consistency Tuning: Understanding and Improving Consistency Models](https://arxiv.org/abs/2410.18958)
   - Code: https://github.com/G-U-N/Stable-Consistency-Tuning
 
+- [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2403.03206)
+
+- [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)
+  - Code: https://github.com/CompVis/latent-diffusion
+
+- [Phased Consistency Model](https://arxiv.org/abs/2405.18407)
+ - Code: https://github.com/G-U-N/Phased-Consistency-Model
+
 
 #### Training Efficiency
 
@@ -77,6 +85,9 @@
 
 - [Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model](https://arxiv.org/abs/2212.00490v2)
   - Code: https://github.com/wyhuai/ddnm
+
+- [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2403.03206)
+
 
 #### Theoritical Analysis
 
