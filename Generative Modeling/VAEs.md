@@ -4,6 +4,12 @@
 
 - [beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/forum?id=Sy2fzU9gl)
 
+- [SQ-VAE: Variational Bayes on Discrete Representation with Self-annealed Stochastic Quantization](https://proceedings.mlr.press/v162/takida22a/takida22a.pdf)
+
+- [Wasserstein Auto-Encoders](https://arxiv.org/abs/1711.01558)
+
+- [Vector Quantized Wasserstein Auto-Encoder](https://arxiv.org/abs/2302.05917)
+
 #### Efficient Sampling
 
 - [Deep Compression Autoencoder for Efficient High-Resolution Diffusion Models](https://arxiv.org/abs/2410.10733)
