@@ -83,6 +83,10 @@
   - Code: https://github.com/Adamdad/Repfusion
   - Interesting Point: Our study begins by examining the feature space of DPMs, revealing that DPMs are inherently denoising autoencoders that balance the representation learning with regularizing model capacity.
 
+- [Denoising Diffusion Autoencoders are Unified Self-supervised Learners](https://arxiv.org/abs/2303.09769)
+  - Code: https://github.com/FutureXiang/ddae
+  - Interesting Point: This paper shows that the networks in diffusion models, namely denoising diffusion autoencoders (DDAE), are unified self-supervised learners: by pre-training on unconditional image generation, DDAE has already learned strongly linear-separable representations within its intermediate layers without auxiliary encoders, thus making diffusion pre-training emerge as a general approach for generative-and-discriminative dual learning.
+
 - [SODA: Bottleneck Diffusion Models for Representation Learning](https://arxiv.org/abs/2311.17901)
   - Interesting Point: What I cannot create, I do not understand.
 
@@ -110,9 +114,10 @@
 
 - [Denoising Diffusion Restoration Models](https://arxiv.org/abs/2201.11793)
 
-#### Interesting Explorations
-
 - [ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting](https://arxiv.org/abs/2307.12348)
+
+
+#### Interesting Explorations
 
 
 - [Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise](https://arxiv.org/abs/2208.09392)
