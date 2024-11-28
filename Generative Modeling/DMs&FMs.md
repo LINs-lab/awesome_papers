@@ -10,6 +10,9 @@
   - Mini Code: https://github.com/gle-bellier/flow-matching/tree/main
   - Mini Code: https://gist.github.com/francois-rozet/fd6a820e052157f8ac6e2aa39e16c1aa
 
+- [Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow](https://arxiv.org/abs/2209.03003)
+  - https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Flow_Straight_and_Fast_Learning_to_Generate_and_Transfer_Data_with_Rectified_Flow
+
 - [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)
   - Code: https://github.com/yang-song/score_sde
 
@@ -77,6 +80,9 @@
 - [Return of Unconditional Generation: A Self-supervised Representation Generation Method](https://arxiv.org/abs/2312.03701)
   - Code: https://github.com/LTH14/rcg
 
+- [Immiscible Diffusion: Accelerating Diffusion Training with Noise Assignment](https://arxiv.org/abs/2406.12303)
+  - Code: https://github.com/yhli123/immiscible-diffusion
+
 #### Interesting Applications
 
 - [Diffusion Model as Representation Learner](https://arxiv.org/abs/2308.10916)
@@ -124,6 +130,7 @@
   - Code: https://github.com/arpitbansal297/Cold-Diffusion-Models/tree/main
   - Mini Code: https://github.com/arpitbansal297/Cold-Diffusion-Models/blob/main/demixing-diffusion-pytorch/demixing_diffusion_pytorch/demixing_diffusion_pytorch.py
 
+- [Soft Diffusion: Score Matching for General Corruptions](https://arxiv.org/abs/2209.05442)
 
 - [Dual Diffusion Implicit Bridges for Image-to-Image Translation](https://arxiv.org/abs/2203.08382)
   - Code: https://github.com/suxuann/ddib/
@@ -132,8 +139,6 @@
 
 - [Generator Matching: Generative modeling with arbitrary Markov processes](https://arxiv.org/abs/2410.20587)
 
-
-- [Immiscible Diffusion: Accelerating Diffusion Training with Noise Assignment](https://arxiv.org/abs/2406.12303)
 
 - [$\epsilon$-VAE: Denoising as Visual Decoding](https://arxiv.org/abs/2410.04081)
   - Interesting Point: In this work, we offer a new perspective by proposing denoising as decoding, shifting from single-step reconstruction to iterative refinement.
