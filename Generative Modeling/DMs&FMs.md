@@ -73,6 +73,11 @@
 
 #### Training Efficiency
 
+
+- [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)
+
+
+
 - [Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think](https://arxiv.org/abs/2410.06940)
   - Code: https://github.com/sihyun-yu/REPA
 
@@ -122,6 +127,20 @@
 
 - [ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting](https://arxiv.org/abs/2307.12348)
 
+- [PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis](https://arxiv.org/abs/2310.00426)
+  - Code: https://github.com/PixArt-alpha/PixArt-alpha
+
+- [Progressive Compositionality In Text-to-Image Generative Models](https://arxiv.org/abs/2410.16719)
+
+- [Pyramidal Flow Matching for Efficient Video Generative Modeling](https://arxiv.org/abs/2410.05954v1)
+  - Code: https://github.com/jy0205/Pyramid-Flow
+
+- [Improved Distribution Matching Distillation for Fast Image Synthesis](https://arxiv.org/abs/2405.14867)
+  - Code: https://github.com/tianweiy/DMD2
+
+- [OminiControl: Minimal and Universal Control for Diffusion Transformer](https://arxiv.org/abs/2411.15098v3)
+
+- [WF-VAE: Enhancing Video VAE by Wavelet-Driven Energy Flow for Latent Video Diffusion Model](https://arxiv.org/abs/2411.17459v2)
 
 #### Interesting Explorations
 
