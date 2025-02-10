@@ -5,3 +5,5 @@
 - [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
+#### Large Models
+- [Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving](https://arxiv.org/abs/2407.00079v3#)

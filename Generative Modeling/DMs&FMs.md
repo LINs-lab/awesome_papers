@@ -1,6 +1,6 @@
 #### Awesome Repositories
 - [Diffusion Models and Representation Learning: A Survey](https://github.com/dongzhuoyao/Diffusion-Representation-Learning-Survey-Taxonomy)
-
+- [Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices](https://arxiv.org/abs/2410.11795)
 
 #### Efficacy
 
@@ -70,6 +70,8 @@
 - [Phased Consistency Model](https://arxiv.org/abs/2405.18407)
   - Code: https://github.com/G-U-N/Phased-Consistency-Model
 
+- [Adversarial Score identity Distillation: Rapidly Surpassing the Teacher in One Step](https://arxiv.org/abs/2410.14919v4)
+  - Code: https://github.com/mingyuanzhou/SiD/tree/sida
 
 #### Training Efficiency
 
@@ -87,6 +89,10 @@
 
 - [Immiscible Diffusion: Accelerating Diffusion Training with Noise Assignment](https://arxiv.org/abs/2406.12303)
   - Code: https://github.com/yhli123/immiscible-diffusion
+
+
+- [FasterDiT: Towards Faster Diffusion Transformers Training without Architecture Modification](https://arxiv.org/abs/2410.10356)
+
 
 #### Interesting Applications
 
@@ -142,6 +148,28 @@
 
 - [WF-VAE: Enhancing Video VAE by Wavelet-Driven Energy Flow for Latent Video Diffusion Model](https://arxiv.org/abs/2411.17459v2)
 
+- [Vector Quantized Diffusion Model for Text-to-Image Synthesis](https://arxiv.org/abs/2111.14822)
+  - Code: https://github.com/cientgu/VQ-Diffusion
+
+- [Stretching Each Dollar: Diffusion Training from Scratch on a Micro-Budget](https://arxiv.org/abs/2407.15811v1)
+  - Code: https://github.com/SonyResearch/micro_diffusion
+
+- [Masked Diffusion Transformer is a Strong Image Synthesizer](https://github.com/sail-sg/MDT/tree/main)
+  - Code: https://github.com/sail-sg/MDT/tree/main
+
+- [TREAD: Token Routing for Efficient Architecture-agnostic Diffusion Training](https://arxiv.org/abs/2501.04765)
+  - Code: https://github.com/CompVis/tread/tree/master
+
+- [TokenVerse: Versatile Multi-concept Personalization in Token Modulation Space](https://arxiv.org/abs/2501.12224)
+
+- [Memory-Driven Text-to-Image Generation](https://arxiv.org/abs/2208.07022)
+
+
+- [DynamicControl: Adaptive Condition Selection for Improved Text-to-Image Generation](https://arxiv.org/abs/2412.03255)
+
+
+
+
 #### Interesting Explorations
 
 
@@ -164,6 +192,7 @@
 
 - [Diffusion Models are Evolutionary Algorithms](https://arxiv.org/abs/2410.02543v2)
 
+- [Semi-Parametric Neural Image Synthesis](https://arxiv.org/abs/2204.11824)
 
 #### Theoritical Analysis
 
