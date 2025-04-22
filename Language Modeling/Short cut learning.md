@@ -11,6 +11,7 @@
 - [Out-of-Distribution Generalization in Natural Language Processing: Past, Present, and Future](https://aclanthology.org/2023.emnlp-main.276.pdf)
 - [Semformer: Transformer Language Models with Semantic Planning](https://arxiv.org/pdf/2409.11143)
 - [GLUE-X: Evaluating Natural Language Understanding Models from an Out-of-Distribution Generalization Perspective](https://arxiv.org/pdf/2211.08073)
+- [SUPERVISED KNOWLEDGE MAKES LARGE LANGUAGE MODELS BETTER IN-CONTEXT LEARNERS](https://arxiv.org/pdf/2312.15918)
 
 
 # Reward Hacking 
