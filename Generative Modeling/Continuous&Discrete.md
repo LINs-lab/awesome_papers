@@ -46,6 +46,22 @@
 
 - [arXiv 2025] [Large language diffusion models](https://arxiv.org/pdf/2502.09992)
 
+- [ICLR 2025 Oral] [Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](https://arxiv.org/pdf/2503.09573)
+
+- [COLM 2024] [A Reparameterized Discrete Diffusion Model for Text Generation](https://arxiv.org/pdf/2302.05737)
+
+- [ICLR 2025] [Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data](https://arxiv.org/pdf/2406.03736)
+
+- [NIPS 2024] [Simplified and Generalized Masked Diffusion for Discrete Data](https://arxiv.org/pdf/2406.04329)
+
+- [NAACL 2025] [Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion](https://arxiv.org/pdf/2408.05636)
+
+- [ICLR 2023] [Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning](https://arxiv.org/pdf/2208.04202)
+
+- [arXiv 2025] [Theoretical Benefit and Limitation of Diffusion Language Model](https://arxiv.org/pdf/2502.09622)
+
+- [arXiv 2025] [Unifying Autoregressive and Diffusion-Based Sequence Generation](https://arxiv.org/pdf/2504.06416)
+
 ### Guidance
 
 - [arXiv 2024] [Derivative-free guidance in continuous and discrete diffusion models with soft value-based decoding](https://arxiv.org/pdf/2408.08252)
@@ -78,5 +94,7 @@
 - [NeurIPS 2023] [AR-DIFFUSION: Auto-Regressive Diffusion Model for Text Generation](https://arxiv.org/pdf/2305.09515)
 
 - [ICML 2024] [Discrete diffusion modeling by estimating the ratios of the data distribution](https://arxiv.org/pdf/2310.16834)
+
+- [ICLR 2025 Workshop] [The Diffusion Duality](https://openreview.net/pdf?id=CB0Ub2yXjC)
 ****
 - [arXiv 2025] [Continuous Diffusion Model for Language Modeling](https://arxiv.org/pdf/2502.11564)
