@@ -78,3 +78,5 @@
 - [NeurIPS 2023] [AR-DIFFUSION: Auto-Regressive Diffusion Model for Text Generation](https://arxiv.org/pdf/2305.09515)
 
 - [ICML 2024] [Discrete diffusion modeling by estimating the ratios of the data distribution](https://arxiv.org/pdf/2310.16834)
+****
+- [arXiv 2025] [Continuous Diffusion Model for Language Modeling](https://arxiv.org/pdf/2502.11564)
